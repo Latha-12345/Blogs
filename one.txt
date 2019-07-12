@@ -1,2 +1,2 @@
-- ami-0b898040803850657 (64-bit x86) / ami-0ad82a384c06c911e (64-bit Arm)
+sg-0f38d7c8f3b85467d
 
