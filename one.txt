@@ -1,1 +1,4 @@
-  docker swarm join --token SWMTKN-1-1vf3o247gfha5plyrozuuyomf33948e0x6qpyzqtyf2yq87yqu-ebo1zkd65jk1ifxge9l6rcbzp 52.91.28.173:2377
+[default]
+aws_access_key_id = AKIA3NOGFI7RZUJRMDOK
+aws_secret_access_key = 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
+
