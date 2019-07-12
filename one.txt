@@ -1,1 +1,1 @@
-Latha
+ docker swarm join --token SWMTKN-1-1civgeqaj8hwharbx95vkfr6500wbltfm1166ib904ap53woxc-aumw0czu42ugsaibpp9pv8fvf 3.80.188.33:2377
