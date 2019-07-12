@@ -1,4 +1,2 @@
-[default]
-aws_access_key_id = AKIA3NOGFI7RZUJRMDOK
-aws_secret_access_key = 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
+- ami-0b898040803850657 (64-bit x86) / ami-0ad82a384c06c911e (64-bit Arm)
 
